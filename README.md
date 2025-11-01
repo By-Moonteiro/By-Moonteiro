@@ -1,7 +1,6 @@
 <!-- Gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/C9VLSOoxiC4FYkbUxW/giphy.gif" alt="Buraco Negro" width="250" />
-  <br/>
+  <img src="https://media.giphy.com/media/C9VLSOoxiC4FYkbUxW/giphy.gif" alt="Buraco Negro" width="380" style="border-radius: 20px; box-shadow: 0 0 30px #FF6B35;" />
 
 
   <!-- Título Principal -->
@@ -40,6 +39,7 @@
 
 </div>
 
+<!-- Contato -->
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ByMoonteiro)
