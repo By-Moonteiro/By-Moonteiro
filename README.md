@@ -43,7 +43,7 @@
 <div align="center">
  
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=By-Moonteiro&show_icons=true&count_private=true&hide_border=true&title_color=FF6B35&icon_color=FFA726&text_color=FFFFFF&bg_color=0d1117" />
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=By-Moonteiro&layout=compact&hide_border=true&title_color=FF6B35&text_color=FFFFFF&bg_color=0d1117&hide=HTML,SystemVerilog,Tcl,Shell,VHDL,Stata,GDB,Coq,Mathematica" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=By-Moonteiro&layout=compact&hide_border=true&title_color=FF6B35&text_color=FFFFFF&bg_color=0d1117" />
 
 <!-- Estatísticas -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=By-Moonteiro&theme=dark&hide_border=true&&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&dates=FFFFFF&stroke=FF6B35&sideLabels=FF6B35&sideNums=FFFFFF)
