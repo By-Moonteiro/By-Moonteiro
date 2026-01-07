@@ -31,6 +31,9 @@
 
 <!-- Linguagens -->
 <img src="https://img.shields.io/badge/-Python-FF6B35?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/-JavaScript-FF6B35?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/-TypeScript-FF6B35?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+
 <!-- <img src="https://img.shields.io/badge/-JavaScript-FF6B35?style=for-the-badge&logo=javascript&logoColor=FFFF00" /> -->
 
 <!-- Ferramentas -->
