@@ -14,7 +14,7 @@
 
   <!-- Descrição -->
   <p align="center" style="color: #FFA726; font-size: 1.1em; max-width: 500px;">
-    <strong>✨ Aspiring Developer | Computer Engineer Student (UEFS) | Brazil - Bahia</strong>
+    <strong>✨ Aspiring Developer | Software Engineer Student (UNINTER) | Brazil - Bahia</strong>
     <br/>
     <span style="color: #FFFFFF; font-size: 0.9em;">
       Orbiting between algorithms and constellations
