@@ -13,35 +13,50 @@
   <div style="height: 2px; width: 100px; background: linear-gradient(90deg, transparent, #FF6B35, transparent); margin: 10px auto;"></div>
 
   <!-- Descrição -->
-  <p align="center" style="color: #FFA726; font-size: 1.1em; max-width: 500px;">
-    <strong>✨ Aspiring Developer | Software Engineer Student (UNINTER) | Brazil - Bahia</strong>
-    <br/>
-    <span style="color: #FFFFFF; font-size: 0.9em;">
-      Orbiting between algorithms and constellations
-    </span>
+<p align="center">
+    <strong>Backend Developer | Software Engineering Student (UNINTER) | Brazil - Bahia</strong><br/>
+    <span>Orbiting between algorithms and constellations</span>
   </p>
   </div>
 
 <!-- Linguagens e habilidades -->
 <div align="center">
   
-### 🛠️ Tech Stack
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+## ⚙️ Tech Stack
 
-<!-- Linguagens -->
-<img src="https://img.shields.io/badge/-Python-FF6B35?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/-JavaScript-FF6B35?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<div align="center">
+
+**Languages**
+
 <img src="https://img.shields.io/badge/-TypeScript-FF6B35?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/-Python-FF6B35?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-<!-- <img src="https://img.shields.io/badge/-JavaScript-FF6B35?style=for-the-badge&logo=javascript&logoColor=FFFF00" /> -->
+**Backend**
 
-<!-- Ferramentas -->
-<img src="https://img.shields.io/badge/-VS_Code-FF6B35?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/-NestJS-FF6B35?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/-Fastify-FF6B35?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-FF6B35?style=for-the-badge&logo=node.js&logoColor=339933" />
+
+**Database & Infra**
+
+<img src="https://img.shields.io/badge/-PostgreSQL-FF6B35?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Prisma-FF6B35?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-FF6B35?style=for-the-badge&logo=docker&logoColor=white" />
+
+**Docs & Auth**
+
+<img src="https://img.shields.io/badge/-Swagger-FF6B35?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/-JWT-FF6B35?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
+
+**Tools**
+
 <img src="https://img.shields.io/badge/-Git-FF6B35?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/-GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-VS_Code-FF6B35?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 
 </div>
+
+---
 
 <!-- Status -->
 <div align="center">
