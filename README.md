@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=560&lines=Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Full+Stack+in+progress+%C2%B7+Backend-first+%F0%9F%8C%8C;Building+systems%2C+exploring+the+universe+%F0%9F%9A%80;Software+Engineering+Student+%40+UNINTER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=560&lines=Software+Developer+%F0%9F%96%A5%EF%B8%8F;Building+real+systems+and+learning+by+doing+%F0%9F%9A%80;Backend-first+mindset+%C2%B7+Full+Stack+Journey;Software+Engineering+Student+%40+UNINTER)](https://git.io/typing-svg)
 
 
 <h3 align="center">~ Wagner L. Monteiro ~</h3>
-
+ 
 <!-- Linguagens e habilidades -->
 <div align="center">
   
@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/-NestJS-4B0082?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
 <img src="https://img.shields.io/badge/-Fastify-4B0082?style=for-the-badge&logo=fastify&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=339933" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 **Database & Infra**
 
