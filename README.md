@@ -60,7 +60,7 @@ Category | Technologies
     <td colspan="2" align="center">
       <h3>🏋️ MoonFit</h3>
       <p align="center">
-        <a href="https://github.com/By-Moonteiro/moonfit-api">
+        <a href="https://github.com/By-Moonteiro/moon-fit">
           <img src="https://img.shields.io/badge/Ver_Repositório-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
