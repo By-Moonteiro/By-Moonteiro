@@ -41,23 +41,40 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center" width="50%">
       <h3>🏋️ MoonFit</h3>
       <p align="center">
         <a href="https://github.com/By-Moonteiro/moon-fit">
           <img src="https://img.shields.io/badge/Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=0099CC"/>
         </a>
-        </p>
-        <p align="center">Gerenciador de fichas de treino pensado como produto real — multi-tenant, com histórico de evolução e estrutura que cresce junto com o usuário.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
-          <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=0099CC" />
-          <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0099CC" />
-         <img src="https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=0099CC" />
-          <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099CC" />
-          <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=0099CC" />
-          <img src="https://img.shields.io/badge/-Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=0099CC" />
-        </p>
+      </p>
+      <p align="center">Gerenciador de fichas de treino pensado como produto real — multi-tenant, com histórico de evolução e estrutura que cresce junto com o usuário.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=0099CC" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌌 Nebula</h3>
+      <p align="center">
+        <a href="https://github.com/By-Moonteiro/nebula">
+          <img src="https://img.shields.io/badge/Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=0099CC"/>
+        </a>
+      </p>
+      <p align="center">CLI para scaffold de projetos com templates opinados — pule o boilerplate, comece pelo que importa.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=0099CC" />
+      </p>
     </td>
   </tr>
 </table>
