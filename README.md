@@ -42,10 +42,13 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🏋️ MoonFit</h3>
+      <h3>🏋️ Astreon</h3>
       <p align="center">
-        <a href="https://github.com/By-Moonteiro/moon-fit">
+        <a href="https://github.com/By-Moonteiro/astreon">
           <img src="https://img.shields.io/badge/Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=0099CC"/>
+        </a>
+        <a href="https://astreon.app">
+          <img src="https://img.shields.io/badge/Acessar_App-0d1117?style=for-the-badge&logo=googlechrome&logoColor=0099CC"/>
         </a>
       </p>
       <p align="center">Gerenciador de fichas de treino pensado como produto real — multi-tenant, com histórico de evolução e estrutura que cresce junto com o usuário.</p>
