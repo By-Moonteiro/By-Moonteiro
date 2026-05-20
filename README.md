@@ -17,23 +17,26 @@
 
 <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
 <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=0099CC" />
+<img src="https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=0099CC" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=0099CC" />
+<img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=0099CC" />
+<img src="https://img.shields.io/badge/-Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=0099CC" />
 
 **Database & Infra**
 
 <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0099CC" />
 <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099CC" />
+<img src="https://img.shields.io/badge/-Render-0d1117?style=for-the-badge&logo=render&logoColor=0099CC" />
+<img src="https://img.shields.io/badge/-Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=0099CC" />
+<img src="https://img.shields.io/badge/-Neon-0d1117?style=for-the-badge&logo=postgresql&logoColor=0099CC" />
 
 **Tools & OS**
 
 <img src="https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=0099CC" />
 <img src="https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=0099CC" />
-<img src="https://img.shields.io/badge/-EndeavourOS-0d1117?style=for-the-badge&logo=arch-linux&logoColor=0099CC" />
-
-**Currently Learning**
-
-<img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=0099CC" />
-<img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=0099CC" />
-<img src="https://img.shields.io/badge/-React_Native-0d1117?style=for-the-badge&logo=react&logoColor=0099CC" />
 
 ---
 
