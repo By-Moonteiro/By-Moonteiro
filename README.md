@@ -45,41 +45,43 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🏋️ Astreon</h3>
+      <h3>🛒 E-commerce API</h3>
       <p align="center">
-        <a href="https://github.com/By-Moonteiro/astreon">
+        <a href="https://github.com/By-Moonteiro/e-commerce-api">
           <img src="https://img.shields.io/badge/Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=0099CC"/>
         </a>
-        <a href="https://astreon.app">
-          <img src="https://img.shields.io/badge/Acessar_App-0d1117?style=for-the-badge&logo=googlechrome&logoColor=0099CC"/>
+        <a href="https://e-commerce-backend-782l.onrender.com/docs">
+          <img src="https://img.shields.io/badge/API_Documentation-0d1117?style=for-the-badge&logo=swagger&logoColor=0099CC"/>
         </a>
       </p>
-      <p align="center">Gerenciador de fichas de treino pensado como produto real — multi-tenant, com histórico de evolução e estrutura que cresce junto com o usuário.</p>
+      <p align="center">API REST para um sistema de e-commerce, com gerenciamento de produtos, categorias e regras de negócio. Desenvolvida com foco em arquitetura modular, validação e organização das responsabilidades.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
         <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=0099CC" />
         <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0099CC" />
         <img src="https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Zod-0d1117?style=for-the-badge&logo=zod&logoColor=0099CC" />
         <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=0099CC" />
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🌌 Nebula</h3>
+      <h3>📚 Bookshelf</h3>
       <p align="center">
-        <a href="https://github.com/By-Moonteiro/nebula">
+        <a href="https://github.com/By-Moonteiro/bookshelf-project">
           <img src="https://img.shields.io/badge/Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=0099CC"/>
         </a>
       </p>
-      <p align="center">CLI para scaffold de projetos com templates opinados — pule o boilerplate, comece pelo que importa.</p>
+      <p align="center">Aplicação Full Stack para gerenciamento de uma biblioteca pessoal, permitindo cadastrar livros, acompanhar o progresso de leitura e registrar avaliações. Integração entre frontend e backend com foco em organização e experiência do usuário.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=0099CC" />
         <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0099CC" />
         <img src="https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=0099CC" />
+        <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099CC" />
       </p>
     </td>
   </tr>
@@ -90,12 +92,6 @@
 ---
 
 <div align="center">
-
-<img width="49%" height="195px"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=By-Moonteiro&show_icons=true&count_private=true&hide_border=true&title_color=0099CC&icon_color=0099CC&text_color=FFFFFF&bg_color=0d1117" />
-<img width="41%" height="195px"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=By-Moonteiro&layout=compact&hide_border=true&title_color=0099CC&text_color=FFFFFF&bg_color=0d1117" />
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=By-Moonteiro&theme=dark&hide_border=true&background=0d1117&ring=0099CC&fire=006699&currStreakLabel=0099CC&dates=FFFFFF&stroke=0099CC&sideLabels=006699&sideNums=FFFFFF)
 
