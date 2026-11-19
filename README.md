@@ -93,6 +93,11 @@
 
 <div align="center">
 
+<img width="49%" height="195px"
+src="https://github-stats-extended.vercel.app/api?username=By-Moonteiro&custom_title=My%20GIthub%20Stats&show_icons=true&include_all_commits=true&theme=transparent&count_private=true&hide_border=true&title_color=0099CC&icon_color=0099CC&text_color=FFFFFF&bg_color=0d1117" />
+<img width="41%" height="195px"
+src="https://github-stats-extended.vercel.app/api/top-langs?username=By-Moonteiro&layout=compact&langs_count=4&theme=transparent)t&hide_border=true&title_color=0099CC&text_color=FFFFFF&bg_color=0d1117" />
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=By-Moonteiro&theme=dark&hide_border=true&background=0d1117&ring=0099CC&fire=006699&currStreakLabel=0099CC&dates=FFFFFF&stroke=0099CC&sideLabels=006699&sideNums=FFFFFF)
 
 <br/>
