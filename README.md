@@ -45,26 +45,29 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🛒 E-commerce API</h3>
-      <p align="center">
-        <a href="https://github.com/By-Moonteiro/e-commerce-api">
-          <img src="https://img.shields.io/badge/Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=0099CC"/>
-        </a>
-        <a href="https://e-commerce-backend-782l.onrender.com/docs">
-          <img src="https://img.shields.io/badge/API_Documentation-0d1117?style=for-the-badge&logo=swagger&logoColor=0099CC"/>
-        </a>
-      </p>
-      <p align="center">API REST para um sistema de e-commerce, com gerenciamento de produtos, categorias e regras de negócio. Desenvolvida com foco em arquitetura modular, validação e organização das responsabilidades.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-Zod-0d1117?style=for-the-badge&logo=zod&logoColor=0099CC" />
-        <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099CC" />
-      </p>
-    </td>
+  <h3>🛒 E-commerce API</h3>
+  <p align="center">
+    <a href="https://github.com/By-Moonteiro/e-commerce-api">
+      <img src="https://img.shields.io/badge/Ver_Repositório-0d1117?style=for-the-badge&logo=github&logoColor=0099CC"/>
+    </a>
+    <a href="https://e-commerce-backend-782l.onrender.com/docs">
+      <img src="https://img.shields.io/badge/API_Documentation-0d1117?style=for-the-badge&logo=swagger&logoColor=0099CC"/>
+    </a>
+  </p>
+  <p align="center">
+    API REST para um sistema de e-commerce, com autenticação JWT, gerenciamento de usuários, produtos, categorias e pedidos. Desenvolvida com foco em arquitetura modular, validação de dados, segurança e organização das responsabilidades.
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=0099CC" />
+    <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=0099CC" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=0099CC" />
+    <img src="https://img.shields.io/badge/-Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=0099CC" />
+    <img src="https://img.shields.io/badge/-Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=0099CC" />
+    <img src="https://img.shields.io/badge/-Zod-0d1117?style=for-the-badge&logo=zod&logoColor=0099CC" />
+    <img src="https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=0099CC" />
+    <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099CC" />
+  </p>
+</td>
     <td align="center" width="50%">
       <h3>📚 Bookshelf</h3>
       <p align="center">
